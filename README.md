@@ -9,7 +9,8 @@
 
 •Una crítica desde la oposición (“elefante blanco”, “gasto innecesario”)
 
-•Útil para clases de economía pública o política.
+•Útil para clases de economía pública o política
+
 ---
 ## Tabla de Contenidos
 - [Autores](#autores)
