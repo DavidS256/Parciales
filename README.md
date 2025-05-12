@@ -12,7 +12,7 @@
 •Útil para clases de economía pública o política.
 ---
 ## Tabla de Contenidos
-- [Autores]()
+- [Autores](#autores)
 - [Descripción](#descripción)
 - [Planteamiento del modelo](#planteamiento-del-modelo)
 - [Contenido del repositorio](#contenido-del-repositorio)
@@ -69,6 +69,6 @@ Se analizan los modelos mediante:
 Este proyecto está bajo la Licencia MIT.
 
 ---
-**Propuestas de mejora:**
+**Propuestas de mejora**
 -
 -
