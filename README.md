@@ -12,6 +12,22 @@
 •Útil para clases de economía pública o política.
 
 ---
+## Autores
+📝 Autores
+
+[*Juan Diego Barrios Esteban*](www.linkedin.com/in/juandiegobarriosesteban)
+Estudiante de economía Universidad de los Andes 
+
+[*Marcelo Yepes*](www.linkedin.com/in/marceloyepesa)
+Estudiante de economía Universidad de Los Andes
+
+[*Loek Kleyn*]()
+Estudiante de economía Universidad de Los Andes
+
+[*David sandino*]()
+Estudiante de economía Universidad de Los Andes
+
+---
 
 ## Tabla de Contenidos
 - [Descripción del Proyecto](#descripción-del-proyecto)
