@@ -2,10 +2,10 @@
 # Generador de Justificaciones de Gasto🚀
 
 ¡Bienvenido al repositorio de nuestro proyecto, en este, introduciras una partida de gasto público (ej. “700 mil millones para tren elevado”) y el modelo genera:
-	•	Una justificación económica (costos-beneficio)
-	•	Una narrativa política (generación de empleo, justicia territorial)
-	•	Una crítica desde la oposición (“elefante blanco”, “gasto innecesario”)
-	•	Útil para clases de economía pública o política.
+•	Una justificación económica (costos-beneficio)
+•	Una narrativa política (generación de empleo, justicia territorial)
+•	Una crítica desde la oposición (“elefante blanco”, “gasto innecesario”)
+•	Útil para clases de economía pública o política.
 
 ---
 
