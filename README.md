@@ -25,10 +25,10 @@
 ---
 ## Autores
 
-[*Juan Diego Barrios Esteban*](#www.linkedin.com/in/juandiegobarriosesteban)
+[*Juan Diego Barrios Esteban*](https://www.linkedin.com/in/juandiegobarriosesteban)
 Estudiante de economía Universidad de los Andes 
 
-[*Marcelo Yepes*](#www.linkedin.com/in/marceloyepesa)
+[*Marcelo Yepes*](https://www.linkedin.com/in/marceloyepesa)
 Estudiante de economía Universidad de Los Andes
 
 [*Loek Kleyn*]()
