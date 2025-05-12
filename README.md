@@ -13,7 +13,6 @@
 
 ---
 ## Autores
-📝 Autores
 
 [*Juan Diego Barrios Esteban*](www.linkedin.com/in/juandiegobarriosesteban)
 Estudiante de economía Universidad de los Andes 
