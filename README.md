@@ -1,7 +1,7 @@
 # Parcial 3-He2AI
 # Titulo proyecto🚀
 
-¡Bienvenido al repositorio de nuestro proyecto de IA para predecir el precio de la accion de Apple a 30 días! Este trabajo fue desarrollado como parte de un curso universitario de inteligencia artificial, con el objetivo de explorar cómo los modelos de aprendizaje automático pueden ayudar en la toma de decisiones financieras.
+¡Bienvenido al repositorio de nuestro proyecto .
 
 ---
 
