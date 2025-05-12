@@ -10,14 +10,25 @@
 •Una crítica desde la oposición (“elefante blanco”, “gasto innecesario”)
 
 •Útil para clases de economía pública o política.
+---
+## Tabla de Contenidos
+- [Autores]()
+- [Descripción](#descripción)
+- [Planteamiento del modelo](#planteamiento-del-modelo)
+- [Contenido del repositorio](#contenido-del-repositorio)
+- [Modelos implementados](#modelos-implementados)
+- [Evaluación de Modelos](#evaluación-de-modelos)
+- [Requerimientos](#requerimientos)
+- [Licencia](#licencia)
+- [Propuestas de mejora](#propuesta-de-mejora)
 
 ---
 ## Autores
 
-[*Juan Diego Barrios Esteban*](www.linkedin.com/in/juandiegobarriosesteban)
+[*Juan Diego Barrios Esteban*](#www.linkedin.com/in/juandiegobarriosesteban)
 Estudiante de economía Universidad de los Andes 
 
-[*Marcelo Yepes*](www.linkedin.com/in/marceloyepesa)
+[*Marcelo Yepes*](#www.linkedin.com/in/marceloyepesa)
 Estudiante de economía Universidad de Los Andes
 
 [*Loek Kleyn*]()
