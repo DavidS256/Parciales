@@ -44,7 +44,9 @@ Estudiante de economía Universidad de Los Andes
 Este proyecto tiene como objetivo entrenar un modelo de lenguaje adaptado para generar automáticamente justificaciones estructuradas ante partidas de gasto público. Al recibir como entrada una cifra presupuestaria y su destino (por ejemplo, “700 mil millones para tren elevado en la costa Caribe”), el modelo devuelve tres secciones de texto:
 
 ECONOMÍA: Justificación desde el impacto económico.
+
 POLÍTICA: Argumento narrativo desde la postura del gobierno o actores afines.
+
 CRÍTICA: Observación, objeción o contraargumento desde la oposición.
 
 Este tipo de generación puede usarse en clases de economía pública, debates fiscales, talleres de argumentación o como insumo en simuladores de política pública.
