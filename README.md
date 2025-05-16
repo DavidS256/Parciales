@@ -52,9 +52,11 @@ Este tipo de generación puede usarse en clases de economía pública, debates f
 ---
 ## Planteamiento del Problema
 
-Modelo base: microsoft/phi-2, un modelo de lenguaje causal preentrenado.
-Adaptación: LoRA (Low-Rank Adaptation) para ajuste fino eficiente.
-Tipo de fine-tuning: Entrenamiento causal con etiquetas construidas a partir de un prompt instructivo.
+ • Modelo base: microsoft/phi-2, un modelo de lenguaje causal preentrenado.
+
+ • Adaptación: LoRA (Low-Rank Adaptation) para ajuste fino eficiente.
+
+ • Tipo de fine-tuning: Entrenamiento causal con etiquetas construidas a partir de un prompt instructivo.
 
 ---
 ## Contenido del Repositorio
