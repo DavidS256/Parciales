@@ -55,11 +55,6 @@ Este tipo de generación puede usarse en clases de economía pública, debates f
 Modelo base: microsoft/phi-2, un modelo de lenguaje causal preentrenado.
 Adaptación: LoRA (Low-Rank Adaptation) para ajuste fino eficiente.
 Tipo de fine-tuning: Entrenamiento causal con etiquetas construidas a partir de un prompt instructivo.
-Formato del prompt: Tipo instructivo con secciones fijas, iniciando con "<s>" y terminando con "</s>".
-Ejemplo de prompt:
-<s>Genera una justificación para la siguiente partida de gasto:
-
-700 mil millones para tren elevado en la costa Caribe
 
 ---
 ## Contenido del Repositorio
