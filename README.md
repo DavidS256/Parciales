@@ -102,10 +102,14 @@ Opcional: Guardar el modelo en Hugging Face Hub o montar localmente en HuggingFa
 Este proyecto puede ser licenciado bajo MIT 
 
 ---
-**Propuestas de mejora**
+## Propuestas de mejora
 
  •	Ampliar el dataset con +200 ejemplos con mayor diversidad semántica y geográfica.
+ 
  •	Ajustar hiperparámetros de LoRA y aumentar épocas si se entrena con más datos.
+ 
  •	Añadir validación humana o por expertos para evaluar factualidad.
+ 
  •	Implementar interface en español neutro y/o lenguas indígenas.
+ 
  •	Conectar con bases reales de presupuestos públicos para generar argumentos contextuales.
