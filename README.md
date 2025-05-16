@@ -48,6 +48,7 @@ POLÍTICA: Argumento narrativo desde la postura del gobierno o actores afines.
 CRÍTICA: Observación, objeción o contraargumento desde la oposición.
 
 Este tipo de generación puede usarse en clases de economía pública, debates fiscales, talleres de argumentación o como insumo en simuladores de política pública.
+
 ---
 ## Planteamiento del Problema
 
@@ -59,12 +60,14 @@ Ejemplo de prompt:
 <s>Genera una justificación para la siguiente partida de gasto:
 
 700 mil millones para tren elevado en la costa Caribe
+
 ---
 ## Contenido del Repositorio
 	
  •	main.ipynb – Cuaderno principal con la implementación de modelos y análisis de resultados.
 	
  •	README.md – Este archivo con la descripción del proyecto
+ 
 ---
 ## Modelos Implementados
 
@@ -102,6 +105,7 @@ Opcional: Guardar el modelo en Hugging Face Hub o montar localmente en HuggingFa
 ## Licencia
 
 Este proyecto puede ser licenciado bajo MIT 
+
 ---
 **Propuestas de mejora**
 
